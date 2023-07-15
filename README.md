@@ -41,7 +41,5 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=besyuzkirk&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
 
-         
-            
-![gif](https://github.com/besyuzkirk/besyuzkirk/blob/output/github-contribution-grid-snake.gif)
+
             
