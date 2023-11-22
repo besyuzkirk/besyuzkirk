@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="350"/>
 </div>
 
-- 👨‍💻 I’m currently working on **Turkish Technology**
+- 👨‍💻 I’m currently working on **PORTX INC**
 
 - 🌱 I’m currently learning **everything i wonder**
 
