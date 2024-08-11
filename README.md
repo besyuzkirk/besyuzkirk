@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on **PORTX INC**
 
-- 🌱 I’m currently learning **dotnet**
+- 🌱 I’m currently learning **dotnet** and **go**
 
 - 📫 Reach me at **[here](mailto:ahmtk1910@gmail.com)**
 
